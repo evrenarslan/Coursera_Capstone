@@ -1,0 +1,11 @@
+Sınıf,Education Status 1,Education Status 2
+Okuma yazma bilmeyen,Un-Trained,Un-Trained
+Okuma yazma bilen fakat bir okul bitirmeyen,Un-Trained,Un-Trained
+İlkokul,Un-Trained,Un-Trained
+İlköğretim,Un-Trained,Un-Trained
+Ortaokul veya dengi okul,High-School,Un-Trained
+Lise veya dengi okul,High-School,Trained
+Yüksekokul veya fakülte,Undergraduate Education,Trained
+Yüksek lisans,Graduate,Trained
+Doktora,Graduate,Trained
+Bilinmeyen,Un-Trained,Un-Trained
